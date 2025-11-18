@@ -1,0 +1,10 @@
+torch
+numpy
+xarray
+netCDF4
+cftime
+scipy
+matplotlib
+tqdm
+psutil
+accelerate
